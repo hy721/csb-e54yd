@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CAEA,MACE,oBACF,CAIA,KACE,aACF","file":"main.d26c2cde.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n\nul li {\n  list-style-type: none;\n}\n\n/* Helen Yau set brower's in the right place */\n\nbody {\n  background: [];\n}\n"]}
